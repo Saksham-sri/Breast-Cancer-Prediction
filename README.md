@@ -19,6 +19,5 @@ The main goal of this project is to compare the performance of different machine
 
 The dataset used for this project is the Breast Cancer Wisconsin (Diagnostic) Data Set. This dataset contains features computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. The features describe characteristics of the cell nuclei present in the image.
 
-## Contact
 
-For any questions or feedback, please feel free to contact me <a href ="https://divyanshu0212.github.io/Divyanshu_Ranjan_Singh.github.io/">Divyanshu Ranjan Singh</a>
+
